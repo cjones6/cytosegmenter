@@ -1,6 +1,6 @@
-This repository contains companion code for the following paper:
+This repository contains companion code for the following [paper](https://www.biorxiv.org/content/early/2020/12/02/2020.12.01.405126):
 
-C. Jones, S. Clayton, F. Ribalet, E.V. Armbrust, Z. Harchaoui. A Kernel-Based Change Detection Method to Map Shifts in Phytoplankton Communities Measured by Flow Cytometry.  
+C. Jones, S. Clayton, F. Ribalet, E.V. Armbrust, Z. Harchaoui. A Kernel-Based Change Detection Method to Map Shifts in Phytoplankton Communities Measured by Flow Cytometry. *bioRxiv*, 2020. doi: 10.1101/2020.12.01.405126. 
 
 Introduction
 -----------------
