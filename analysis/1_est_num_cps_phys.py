@@ -165,4 +165,4 @@ if __name__ == '__main__':
     estimate_ncp(data_dir, cruises, max_cp, alphas, nus, output_dir)
     t2 = time.time()
     print('Runtime:', t2-t1)
-    # Runtime (Intel i9-7960X CPU @ 2.80GHz): 43s
+    # Runtime (Intel i9-7960X CPU @ 2.80GHz): 42s

@@ -1,6 +1,6 @@
-This repository contains companion code for the following [paper](https://www.biorxiv.org/content/early/2020/12/02/2020.12.01.405126):
+This repository contains companion code for the following paper:
 
-C. Jones, S. Clayton, F. Ribalet, E.V. Armbrust, Z. Harchaoui. A Kernel-Based Change Detection Method to Map Shifts in Phytoplankton Communities Measured by Flow Cytometry. *bioRxiv*, 2020. doi: 10.1101/2020.12.01.405126. 
+C. Jones, S. Clayton, F. Ribalet, E.V. Armbrust, Z. Harchaoui. A Kernel-Based Change Detection Method to Map Shifts in Phytoplankton Communities Measured by Flow Cytometry.  
 
 Introduction
 -----------------
@@ -12,11 +12,11 @@ The figure below shows estimated change points overlaid on the phytoplankton dis
 
 ![](plots/KOK1606.png)
 
-In the `examples` folder there is a detailed example of how to apply our proposed method to data from the cruise KOK1606. The results in the paper may be reproduced by running scripts 1-4 in order in the `analysis` folder. See the [wiki page](https://github.com/cjones6/cytosegmenter/wiki/Reproducing-the-Experimental-Results) for more details.
+In the `examples` folder there is a detailed example of how to apply our proposed method to data from the cruise KOK1606. The results in the paper may be reproduced by running scripts 1-4 in order in the `analysis` folder. See [this page](how_to_reproduce_results.md) for more details.
 
 Data
 -----------------
-The data used in the analysis may be found at [https://doi.org/10.5281/zenodo.4289399](https://doi.org/10.5281/zenodo.4289399). In order to reproduce Figure 1 you will also need the file with the background temperatures, which you can find [here](https://psl.noaa.gov/repository/entry/show?entryid=synth%3Ae570c8f9-ec09-4e89-93b4-babd5651e7a9%3AL25vYWEub2lzc3QudjIuaGlnaHJlcy9zc3QuZGF5Lm1lYW4uMjAxNi52Mi5uYw%3D%3D).
+The data used in the analysis may be found at [10.5281/zenodo.4682238](https://doi.org/10.5281/zenodo.4682238). In order to reproduce Figure 1 you will also need the file with the background temperatures, which you can find [here](https://psl.noaa.gov/repository/entry/show?entryid=synth%3Ae570c8f9-ec09-4e89-93b4-babd5651e7a9%3AL25vYWEub2lzc3QudjIuaGlnaHJlcy9zc3QuZGF5Lm1lYW4uMjAxNi52Mi5uYw%3D%3D).
 
 
 Installation
