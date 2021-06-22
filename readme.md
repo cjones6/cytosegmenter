@@ -1,6 +1,6 @@
 This repository contains companion code for the following paper:
 
-C. Jones, S. Clayton, F. Ribalet, E.V. Armbrust, Z. Harchaoui. A Kernel-Based Change Detection Method to Map Shifts in Phytoplankton Communities Measured by Flow Cytometry.  
+Jones, C., Clayton, S., Ribalet, F., Armbrust, E. V., & Harchaoui, Z. (2021). A kernel-based change detection method to map shifts in phytoplankton communities measured by flow cytometry. *Methods in Ecology and Evolution*, 00, 1– 12. https://doi.org/10.1111/2041-210X.13647
 
 Introduction
 -----------------
